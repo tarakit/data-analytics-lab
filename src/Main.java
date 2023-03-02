@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Hello Data Analytics Class");
         System.out.println(" Error happen");
         System.out.println("Hello Kon Papa");
+        System.out.println("Hello Kon Papa");
+        System.out.println("Hello Kon Papa");
     }
 }
