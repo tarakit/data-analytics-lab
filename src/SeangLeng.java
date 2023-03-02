@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class SeangLeng {
+public class SeangLeng {
+    void testing () {
+        System.out.println("Hello jah!");
+    }
 }
