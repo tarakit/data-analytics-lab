@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hello Kon Papa");
         System.out.println("Hello Kon Papa");
         System.out.println("Hello Kon Papa");
-        System.out.println("hello world!");
+        System.out.println("Hello ISTAD");
     }
 }
